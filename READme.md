@@ -1,4 +1,6 @@
-![Cover](.github/arquivo.png)
+![Cover](.github/form.png)
+![Cover](.github/components.png)
+![Cover](.github/colors.png)
 
 # Ignite Lab
 
