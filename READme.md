@@ -6,6 +6,8 @@
 
 Foi desenvolvido o Design System da aplicação com Figma | Storybook.
 
+Link do Figma: https://bit.ly/3ToVH0j
+
 
 ## Tecnologias utilizadas
 
